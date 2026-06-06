@@ -2,7 +2,7 @@
 
 
 download_mtproto_proxies() {
-    curl -s "https://raw.githubusercontent.com/Kolandone/v2raycollector/refs/heads/main/proxy.txt"
+    curl -s "https://raw.githubusercontent.com/Par123456/auto-sub/main/mtproto.txt"
 }
 
 
